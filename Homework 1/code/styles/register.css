@@ -1,0 +1,21 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: rgb(42, 130, 245);
+    text-decoration: none;
+}
+
+header{
+    background-color: blue;
+}
+
+.forms>input{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+
+}
+
+footer{
+    background-color: blue;
+}

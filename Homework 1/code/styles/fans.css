@@ -1,0 +1,52 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background-color: RoyalBlue;
+}
+
+li>a{
+    text-decoration: none;
+    text-shadow: 1px 1px black; 
+    color: darkblue;
+}
+
+.first-lists>li{
+    color: blue;
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 200px;
+}
+
+.searching{
+    color: darkblue;
+    text-shadow: 1px 1px black;
+    text-align: right;
+}
+
+.seaching-button{
+    background: rgb(189, 186, 186) !important; 
+    border-color: black;
+    cursor: pointer;
+    
+}
+
+div>h3{
+    text-align: center;
+}
+
+.popular{
+    margin: 10px;
+    padding-left: 680px;
+}
+
+h1,h3,h4,p{
+    color: darkblue;
+    text-shadow: 1px 1px black;
+}
+
+

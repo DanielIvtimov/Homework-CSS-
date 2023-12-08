@@ -1,0 +1,54 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background-color: Navy;;
+}
+
+li>a{
+    text-decoration: none;
+    text-shadow: 6px 6px black;
+    color: OldLace;
+}
+    
+
+.first-lists>li{
+    text-align: center;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    padding-left: 200px;
+}
+   
+.searching{
+    color: OldLace;
+    text-shadow: 6px 6px black;
+    text-align: right;
+}
+
+.seaching-button{
+    background: OldLace;
+    cursor: pointer;
+}
+    
+h1{
+    color: OldLace;
+    text-shadow: 6px 6px black;
+}
+
+h3,h4{
+    color: OldLace;
+    text-shadow: 6px 6px black;
+}
+
+p{
+    color: OldLace;
+    text-shadow: 6px 6px black;
+}
+
+footer{
+    color: OldLace;
+    text-shadow: 6px 6px black;
+}
